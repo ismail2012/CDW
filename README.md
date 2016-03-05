@@ -1,2 +1,2 @@
 # CDW
-Various code to analyze structure
+Various algorithms to analyze structure
